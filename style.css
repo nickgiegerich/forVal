@@ -39,7 +39,7 @@ h1 {
     image-rendering: auto;
   }
   .container:hover .image {
-    opacity: 0.3;
+    opacity: 1;
   }
   
   .container:hover .middle {
@@ -47,4 +47,7 @@ h1 {
   }
   .row{ 
       padding-top: 20px;
+  }
+  .last-container-bg { 
+    background-color: #326B62;
   }
